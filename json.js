@@ -6,9 +6,9 @@ resBtn.addEventListener('click', () => {
     getAdvice();
 })
 
-// window.onload = () => {
-//     getAdvice();
-// }
+window.onload = () => {
+    getAdvice();
+}
 
 function getAdvice() {
 
